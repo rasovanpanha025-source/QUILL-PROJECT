@@ -151,7 +151,7 @@ span{
     background-color: var(--primary-base);
 }
 .highlight-secondary{
-    background-color: var(--secondary-base);
+    background-color: var(--tertiary-shade);
 }
 .highlight-tertiary{
     background-color: var(--tertiary-base);
